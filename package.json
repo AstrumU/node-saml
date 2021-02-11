@@ -2,7 +2,7 @@
   "name": "@astrumu/saml",
   "version": "0.13.1",
   "devDependencies": {
-    "mocha": "3.5.3",
+    "mocha": "^8.2.1",
     "should": "~1.2.1"
   },
   "main": "./lib",
